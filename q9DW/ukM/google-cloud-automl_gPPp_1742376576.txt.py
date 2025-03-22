@@ -35,7 +35,6 @@ prediction = visionclassification(local_image_path, project_id, model_id, min_co
 # Various IF Conditions you can copy paste depending on what you have trained AutoML
 
 if prediction == "Bob Arriving":
- #contents = urllib.request.urlopen("http://url.com").read() #make an HTTP request for IFTTT or WebCoRE
  print("True: Bob is arriving")
  #pushbullet(prediction, token, local_image_path)
  
