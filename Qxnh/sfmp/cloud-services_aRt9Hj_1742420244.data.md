@@ -17,7 +17,6 @@
     - [Steam Remote Play](https://store.steampowered.com/remoteplay/)
     - [2015 HN tread](https://news.ycombinator.com/item?id=9864534)
 - Stocks portfolio watcher 💹
-- Personal Document Management System
     - [Paperless](https://github.com/the-paperless-project/paperless)
     - [EveryDocs](https://github.com/jonashellmann/everydocs-core/)
 - Contacts list 📇
