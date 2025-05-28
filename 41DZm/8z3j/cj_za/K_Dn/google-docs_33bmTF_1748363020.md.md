@@ -29,7 +29,6 @@ Do you have a patch that fixes a bug?
   small changes, but bigger changes should look like this:
 
       $ git commit -m "A brief summary of the commit
-      > 
       > A paragraph describing what changed and its impact."
 
 Do you intend to add a new feature or change an existing one?
