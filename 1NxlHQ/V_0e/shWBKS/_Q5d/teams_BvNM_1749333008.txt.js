@@ -2,7 +2,6 @@ const origin = 'https://github.com/Tencent/weui';
 const comparePath = `${origin}/compare/`;
 const commitPath = `${origin}/commit/`;
 
-const logs = [];
 
 module.exports = {
   filters: [
